@@ -2,4 +2,4 @@
 ## Cache-Hirarchy
 
 ### Members 
-Akshat KUmar Gupta, Ayush Ramtake, Ravi Shankar Meena
+Akshat Kumar Gupta, Ayush Ramteke, Ravi Shankar Meena
